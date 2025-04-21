@@ -6,6 +6,8 @@ To analyze fake news headlines and identify commonly used clickbait words using 
 ---
 
 ## 🗂️ Project Structure
+
+```text
 ClickbaitDetection/
 │
 ├── src/                        # Java source files
