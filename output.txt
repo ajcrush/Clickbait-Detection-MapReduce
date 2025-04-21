@@ -1,0 +1,8 @@
+breaking    50
+shocking    45
+exclusive   40
+scandal     38
+you         36
+won’t       34
+believe     33
+
